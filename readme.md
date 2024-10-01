@@ -3,7 +3,8 @@
 ![followers](https://img.shields.io/github/followers/bb9rj?style=social)
 ![stars](https://img.shields.io/github/stars/bb9rj?style=social)
 ![repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=$.public_repos&url=https://api.github.com/users/bb9rj)
-[![commits](https://img.shields.io/badge/dynamic/json?color=green&label=commits&query=$.total&url=https://api.github.com/users/bb9rj/events)](https://img.shields.io/badge/what_the-sigma-blue)
+![any text](https://img.shields.io/badge/any_text-sigma-blue)
+
 
 ### currently working on
 
